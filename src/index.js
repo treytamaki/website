@@ -9,6 +9,8 @@ import Resume from './Resume.js';
 import Launchpad from './Launchpad.js';
 import Projects from './Projects.js';
 
+console.log("ELO");
+
 const routing = (
     <Router>
       <div>
