@@ -1,6 +1,6 @@
 {
-  "name": "sandbox",
-  "homepage": "http://treytamaki.github.io/website",  
+  "name": "website",
+  "homepage": "http://treytamaki.github.io/treytamaki.github.io",  
   "version": "0.1.0",
   "private": true,
   "dependencies": {
