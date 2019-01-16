@@ -6,7 +6,7 @@ import './App.css';
 import Header from './Header';
 import Footer from './Footer';
 
-import ResumeDoc from './Trey Tamaki Resume (December 2018).pdf';
+import ResumeDoc from './files/Trey Tamaki Resume (December 2018).pdf';
 
 class Resume extends Component {
   

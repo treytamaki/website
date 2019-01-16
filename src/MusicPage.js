@@ -315,7 +315,7 @@ class MusicPage extends Component {
     }
     for (let i = 0; i < items; i++) {
       let index = randomIndices[i];
-      musicBox.push(<MusicBox albumImage={"/music/" + images[index]} youtubeLink={links[index]} title={titles[index]} artist={artists[index]} album={albums[index]} index={index}></MusicBox>);
+      musicBox.push(<MusicBox albumImage={"./music/" + images[index]} youtubeLink={links[index]} title={titles[index]} artist={artists[index]} album={albums[index]} index={index}></MusicBox>);
     } 
     let changedAlbums = document.getElementsByClassName("album-art");
     for (let i = 0; i < changedAlbums.length; i++) {
