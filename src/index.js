@@ -3,8 +3,7 @@ import ReactDOM from 'react-dom';
 import './index.css';
 import App from './App';
 
-
-import { Route, BrowserRouter as Router } from 'react-router-dom'
+import { Route, BrowserRouter as Router } from 'react-router-dom';
 import MusicPage from './MusicPage.js';
 import Resume from './Resume.js';
 import Launchpad from './Launchpad.js';
